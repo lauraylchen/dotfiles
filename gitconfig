@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lauraylchen@hotmail.com
+	name = Laura You-Li Chen
